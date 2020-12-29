@@ -131,7 +131,7 @@ main section h4{
 
 main section:first-child{
 
-    background: rgba(0,0,0,.8) url(/assets/img/portfolio2.jpg) center/cover no-repeat;
+    background: rgba(0,0,0,.8) url(assets/img/portfolio2.jpg) center/cover no-repeat;
     background-blend-mode: multiply;
     
 }
@@ -142,12 +142,12 @@ main section:nth-child(2){
 
 
 main section:nth-child(3){
-    background: rgba(0,0,0,.8) url(/assets/img/portfolio4.jpg) center/cover no-repeat;
+    background: rgba(0,0,0,.8) url(assets/img/portfolio4.jpg) center/cover no-repeat;
     background-blend-mode: multiply;
 }
 
 main section:nth-child(4){
-    background: url(/assets/img/portfolio5.png) center/cover no-repeat;
+    background: url(assets/img/portfolio5.png) center/cover no-repeat;
 }
 
 /* Bearbeitung der Seiten 2-5 */
